@@ -5,7 +5,7 @@ This repository can be used as a quick benchmarking for OpenJDK 8 and 18.
 It provides 2 projects:
 ```
     image-open-jdk18
-	image-open-jdk8
+    image-open-jdk8
 ```
 Both contain the same code based on an implementation test created by Leo Lewis.
 You can take a look to the blog and original code:
